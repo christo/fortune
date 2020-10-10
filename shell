@@ -1,0 +1,5 @@
+readline: ctrl-a : go to the beginning of the line
+readline: ctrl-e : go to the end of the line
+readline: ctrl-u : delete everything to the beginning of the line
+readline: ctrl-k : delete everything to the end of the line
+
