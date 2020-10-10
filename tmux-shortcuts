@@ -8,4 +8,4 @@ tmux: C-b <arrow> switch to pane in that direction
 %
 tmux: C-b C-<arrow> grow pane in that direction
 %
-
+tmux: C-b d detach from the session without killing it
