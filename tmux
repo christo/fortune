@@ -135,4 +135,4 @@ tmux: C-b M-n  Select the next window with an alert
 tmux: C-b M-o  Rotate through the panes in reverse
 %
 tmux: C-b M-p  Select the previous window with an alert
-%
+
