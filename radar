@@ -3,3 +3,7 @@ tailwind css framework
 elixir functional programming language inspired by erland
 %
 racket a great modern lisp
+%
+fasd command line productivity booster
+%
+fzf fuzzy find
