@@ -47,7 +47,7 @@ spark: create sparklines on command line
 tesseract: OCR engine
 %
 streamripper: rips streams!
-% 
+%
 radio: my radio player
 %
 tass64: 6502 cross assembler
