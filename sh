@@ -57,4 +57,5 @@ xa: 6503 cross assembler
 yarn: js package manager
 %
 xmlto: convert xml to various other things
-
+%
+rlwrap: makes readline work with a prompty commandline program
