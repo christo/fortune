@@ -7,3 +7,5 @@ readline: ctrl-u : delete everything to the beginning of the line
 readline: ctrl-k : delete everything to the end of the line
 %
 factor: show the arithmetic factors of the numeric argument
+%
+shadertoy.com: iq's amazing online shader construction and sharing community
