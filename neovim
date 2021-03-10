@@ -1,2 +1,21 @@
-vim :checkhealth	analyses your setup and tells you about config issues
-
+vim: :checkhealth	analyses your setup and tells you about config issues
+%
+vim: '< and '> are special marks for beginning and end of visual selection
+%
+vim: ctrl-o and ctrl-i go back and forward through cursor jump history
+%
+vim: c is a substitution modifier that forces confirmation of each change
+%
+vim: ranges can be used as a prefix to the w write command to specify what gets written to the gile
+%
+vim: r replaces one char, R replaces many, aka overwrite mode
+%
+vim: :set ic 	ignore case makes search case insensitive, reverse that with :set noic
+%
+vim: :set hls is   highlight search and incremental search, reverse with :set nohls nois
+%
+vim: ctrl-w ctrl-w  toggle window selection
+%
+vim: ctrl-y or ctrl-e   scroll up or down without moving cursor
+% 
+vim: ctrl-d   show completions of command or argument, tab is choose single or selected completion 
