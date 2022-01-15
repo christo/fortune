@@ -59,3 +59,13 @@ yarn: js package manager
 xmlto: convert xml to various other things
 %
 rlwrap: makes readline work with a prompty commandline program
+%
+ctrl-w: zsh: readline delete last word
+%
+ctrl-y: zsh: readline paste last deletion
+%
+ctrl-u: zsh: delete whole line (bash: delete to line start)
+%
+ctrl-k: zsh: delete to line end
+%
+ctrl- <-, -> :jump left, right one word
