@@ -1,0 +1,5 @@
+timestamper (christosh): pipe stdin through this to prefix lines with timestamps
+%
+clonewatch.py (christosh): auto clone git repo urls in clipboard to $HOME/src/other/...
+%
+myfortune: prints one of these bad boys
