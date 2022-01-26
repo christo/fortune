@@ -3,3 +3,41 @@ timestamper (christosh): pipe stdin through this to prefix lines with timestamps
 clonewatch.py (christosh): auto clone git repo urls in clipboard to $HOME/src/other/...
 %
 myfortune: prints one of these bad boys
+%
+grepos (christosh): shows git repos under the current dir (sensible max depth)
+%
+gpullr (christosh): recursively pull all git repos under current dir (parallel)
+%
+pbto <ssh_target> (christosh): sends the pasteboard to remote mac over ssh
+%
+pbfrom <ssh_target> (christosh): receives the pasteboard from remote mac over ssh
+%
+pbdo <shell_cmd> (christosh): pipes clipboard through the given shell command
+%
+trackclean (christosh): pipe to clean up common music filenames for search on yt/spotify
+%
+cvlc (christosh): macos command line vlc (requires VLC to be installed) 
+%
+cw (christosh): cats the source of a given executable script found on the path
+%
+psg (christosh): poor man's psgrep
+%
+dfull (christosh): shows % full of root filesystem
+%
+dfree (christosh): prints human readable free disk space
+%
+megs (christosh): shows sorted total sizes of given [current] dir contents
+%
+server (christosh): quick http server with docroot in current dir
+%
+listeners (christosh): lists processes listening on tcp ports (macos via lsof)
+%
+pigs (christosh): shows top 5 cpu hungry processes
+%
+ups (christosh): shows average cpu loads, graphically if you have spark
+%
+mcd (christosh): mkdir if doesn't exist and cd into it
+%
+maketargets (christosh): list make targets for current directory makefile
+%
+remotes (christosh): list git remotes
