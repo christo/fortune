@@ -7,3 +7,5 @@ racket a great modern lisp
 fasd command line productivity booster
 %
 fzf fuzzy find
+%
+z dirname : cd to dir fuzzy matching dirname (from fasd)
