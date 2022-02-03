@@ -1,10 +1,11 @@
-POSSIBLE += $(shell ls -1 | egrep -v '\.dat|README|Makefile' | sed -e 's/$$/.dat/g')
-.PHONY: clean
+POSSIBLE += $(shell ls -1 | egrep -v '\.dat|README\.md|Makefile' | sed -e 's/$$/.dat/g')
 
-all: ${POSSIBLE}
+all : ${POSSIBLE}
 
 %.dat : %
 	@strfile $< $@
+
+.PHONY : clean
 
 clean :
 	-rm *.dat
