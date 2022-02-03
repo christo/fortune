@@ -11,7 +11,7 @@ commands on my system including those I've written myself.
 ## Building
 
 ```console
-make
+$ make
 ```
 
 ## Usage
