@@ -21,7 +21,7 @@ $ make
 ## Adding and Modifying
 
 Create or edit files with names of your own choosing. Add text of your own
-quotes, formatted multiple lines are ok, each entry must be prefixed by a `%`
+quotes, formatted multiple lines are ok, each entry must be separated by a `%`
 character on its own line.
 
 # References
