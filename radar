@@ -1,8 +1,4 @@
-tailwind css framework
-%
-elixir functional programming language inspired by erland
-%
-racket a great modern lisp
+elixir functional programming language inspired by erlang
 %
 fasd command line productivity booster
 %
