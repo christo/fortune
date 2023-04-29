@@ -14,8 +14,6 @@ figlet: ascii art text
 %
 zinc: build server
 %
-hub: github front end script to git which makes it nicer to interact with remote repos
-%
 httpie: beautiful http command-line client
 %
 ack: smarter recurisve grep
