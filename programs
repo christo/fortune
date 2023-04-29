@@ -10,4 +10,4 @@ factor: show the arithmetic factors of the numeric argument
 %
 shadertoy.com: iq's amazing online shader construction and sharing community
 %
-mdfind: use this instead of locate on macos
+mdfind -name: use this instead of locate on macos (remove -name for content search)
