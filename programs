@@ -9,3 +9,5 @@ readline: ctrl-k : delete everything to the end of the line
 factor: show the arithmetic factors of the numeric argument
 %
 shadertoy.com: iq's amazing online shader construction and sharing community
+%
+mdfind: use this instead of locate on macos
