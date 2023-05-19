@@ -41,3 +41,5 @@ mcd (christosh): mkdir if doesn't exist and cd into it
 maketargets (christosh): list make targets for current directory makefile
 %
 remotes (christosh): list git remotes
+%
+sanity_christo.sh (christosh): check random system config stuff
