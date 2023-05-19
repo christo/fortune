@@ -19,3 +19,5 @@ vim: ctrl-w ctrl-w  toggle window selection
 vim: ctrl-y or ctrl-e   scroll up or down without moving cursor
 % 
 vim: ctrl-d   show completions of command or argument, tab is choose single or selected completion 
+%
+vim: :checkhealth   do an audit of terminal-related stuff to help vim work properly
