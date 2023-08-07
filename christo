@@ -45,3 +45,5 @@ remotes (christosh): list git remotes
 sanity_christo.sh (christosh): check random system config stuff
 %
 grv (christosh): alias for git remote -v
+%
+reloadchristosh (christosh): reload christosh tools
