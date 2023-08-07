@@ -1,8 +1,8 @@
 tmux: C-b t show clock
 %
-tmux: C-b " split window into top and bottom
+tmux: C-b - split window into top and bottom
 %
-tmux: C-b % split window into left and right
+tmux: C-b | split window into left and right
 %
 tmux: C-b <arrow> switch to pane in that direction
 %
