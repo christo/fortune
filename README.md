@@ -3,6 +3,9 @@
 Just some of my favourite quotes and reminders of keyboard shortcuts or
 commands on my system including those I've written myself.
 
+I have found this a useful replacement of certain kinds of notes 
+for learning keybindings or command line programs I've made or installed.
+
 ## Prerequisites
 
 * `make`
