@@ -11,3 +11,23 @@ factor: show the arithmetic factors of the numeric argument
 shadertoy.com: iq's amazing online shader construction and sharing community
 %
 mdfind -name: use this instead of locate on macos (remove -name for content search)
+%
+socat is a netcat that is so much better
+%
+yt-dlt  (new youtube-dl)  download video/audio from youtube/everywhere 
+%
+caffeinate [-disu] [-t timeout] [-w pid] [utility arguments...] stops the system from sleeping in various ways while utility runs
+seq 1 6  # command for spitting out sequences for loops etc.
+%
+neofetch  hipster-compliant command line system info for unices
+%
+rg  ripgrep
+%
+ranger  file browser
+%
+bat  better cat
+%
+mdfind -name  macos locate
+%
+fd  better find
+
