@@ -67,3 +67,5 @@ ctrl-u: zsh: delete whole line (bash: delete to line start)
 ctrl-k: zsh: delete to line end
 %
 ctrl- <-, -> :jump left, right one word
+%
+$_ : zsh: expands to the last argument of the previous command
