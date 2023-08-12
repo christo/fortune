@@ -1,0 +1,5 @@
+networkquality  : macos command line to measure internet speed
+%
+mas  : macos app store command line
+%
+mdfind -name foo  : macos command line equivalent of locate foo

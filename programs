@@ -10,8 +10,6 @@ factor: show the arithmetic factors of the numeric argument
 %
 shadertoy.com: iq's amazing online shader construction and sharing community
 %
-mdfind -name: use this instead of locate on macos (remove -name for content search)
-%
 socat is a netcat that is so much better
 %
 yt-dlt  (new youtube-dl)  download video/audio from youtube/everywhere 
@@ -26,8 +24,6 @@ rg  ripgrep
 ranger  file browser
 %
 bat  better cat
-%
-mdfind -name  macos locate
 %
 fd  better find
 
