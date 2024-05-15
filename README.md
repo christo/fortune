@@ -25,26 +25,17 @@ $ make
 
 The categories of fortune cookies are as follows:
 
-christo
-: my own programs and aliases
-cs-quotes
-: quotes I like from computer science
-neovim
-: tips on using neovim
-programs
-: various programs I have installed
-radar
-: misc things I want to be reminded of
-sh
-: command-line antics
-stickers
-: something you might find as a laptop sticker
-tmux
-: tmux-specific reminders; mostly keybindings
-wisdom
-: general wisdom for life
-zoomer
-: shit zoomers say
+christo : my own programs and aliases
+cs-quotes : quotes I like from computer science
+neovim : tips on using neovim
+programs : various programs I have installed
+radar : misc things I want to be reminded of
+sh : command-line antics
+stickers : something you might find as a laptop sticker
+strategies: personal productivity methods
+tmux : tmux-specific reminders; mostly keybindings
+wisdom : general wisdom for life
+zoomer : shit zoomers say
 
 ## Adding and Modifying
 

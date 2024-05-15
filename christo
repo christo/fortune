@@ -47,3 +47,10 @@ sanity_christo.sh (christosh): check random system config stuff
 grv (christosh): alias for git remote -v
 %
 reloadchristosh (christosh): reload christosh tools
+%
+netcheck (christosh): check the current network for key info and hosts
+%
+bru (christosh): brew update (gets the latest repo metadata)
+%
+bro (christosh): brew outdated (shows upgradeable packages)
+
