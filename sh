@@ -28,8 +28,6 @@ clojure: the best lisp?
 %
 jq: json query tool
 %
-lein: clojure!
-%
 lsusb: list usb things
 %
 mpg123: mp3 player
