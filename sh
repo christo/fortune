@@ -4,6 +4,8 @@ gh: github cli (replaces hub)
 %
 ranger: curses based file manager
 %
+lolcat: rainbowify stdin - pipe stuff in for trippiness
+%
 asciiquarium: ascii fish
 %
 tmux: terminal multiplexer
