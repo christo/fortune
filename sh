@@ -67,3 +67,5 @@ ctrl-k: zsh: delete to line end
 ctrl- <-, -> :jump left, right one word
 %
 $_ : zsh: expands to the last argument of the previous command
+%
+ctrl-X ctrl-E : edit current shell command in $EDITOR
