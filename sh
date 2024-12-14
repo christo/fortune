@@ -71,3 +71,5 @@ ctrl- <-, -> :jump left, right one word
 $_ : zsh: expands to the last argument of the previous command
 %
 ctrl-X ctrl-E : edit current shell command in $EDITOR
+%
+fswatch : cli to monitor a directory for changes and run a command
